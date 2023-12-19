@@ -1,0 +1,9 @@
+auto
+bussi
+apostoli
+juna
+lentokone
+wesibussi
+raitiovaunu
+fillari
+taksi
